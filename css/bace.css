@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+img{
+	background-size: contain;
+	text-align: center;
+	margin: 0 auto;
+}
